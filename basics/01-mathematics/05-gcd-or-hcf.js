@@ -8,7 +8,7 @@ console.log(test2) //20
 
 /**
  * As per euclidean 
- * return tillwhen b is 0, while swaping the input 
+ * return till when b is 0, while swaping the input 
  */
 function gcd(a,b){
    if(b===0) return a;

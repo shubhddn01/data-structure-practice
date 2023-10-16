@@ -2,10 +2,11 @@
 
 let test1= countDigits(9235)
 console.log(test1)
-//4
+//O/P:4
+
 let test2= countDigits(38)
 console.log(test2)
-//2
+//O/P:2
 
 
 function countDigits(n){
